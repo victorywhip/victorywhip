@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @victorywhip, 日本語OK！
+- 👀 I’m interested in Javascript, Rust, Data Visualization, and Japanese.
+- 🌱 I’m currently learning Angular, Recoil.js, D3.
